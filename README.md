@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JahnaviDevanandh99
-- 👀 I’m interested in Coding, Technology 
+- 👀 I’m interested in science and Technology 
 - 🌱 I’m currently learning Python programming language 
 
   
